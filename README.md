@@ -1,4 +1,4 @@
-# NY State Education Data - React Props
+# NY State Education Data - React
 
 ![NY School Data](school-data.png)
 
